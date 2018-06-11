@@ -1,3 +1,5 @@
-var nom = "dylan"
+var nom = "gouzenne"
+var prenom = "dylan"
+var ville = "marciac"
 
-prompt(nom);
+alert ("Nom : "+ nom +"\nPrénom : "+ prenom +"\nVille : "+ ville );
