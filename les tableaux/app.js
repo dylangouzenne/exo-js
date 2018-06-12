@@ -1,5 +1,4 @@
-var array = ['Pomme','Cerise','Tomate','Citron', ['Orange','Poivron']];
+var array = ['Pomme','Cerise','Tomate','Citron', ['Orange','Poivron','Citron']];
 
-var newLength = array.push('Courgette');
 
-document.write(array);
+document.write(array[4]);
