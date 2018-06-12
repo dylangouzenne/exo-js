@@ -1,4 +1,5 @@
-var calendrier = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "aout", "septembre", "octobre", "novembre", "décembre"];
+var array = ['Pomme','Cerise','Tomate','Citron', ['Orange','Poivron']];
 
+var newLength = array.push('Courgette');
 
-document.write(calendrier);
+document.write(array);
