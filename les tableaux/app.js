@@ -1,5 +1,5 @@
 var array = ['Pomme','Cerise','Tomate','Citron', ['Orange','Poivron','Citron']];
 
-array.splice(1 , 1);
+array.splice(2 , 0, 'poire');
 
 document.write(array);
